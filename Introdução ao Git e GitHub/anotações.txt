@@ -1,1 +1,1 @@
-O git é x y
+Git -> Ssistema de controle de versão
